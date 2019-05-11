@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f84af2bf2bd5a31041dc17f0a83d2a7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f73e7839c7ac0ab37d2ee69c40a6b771\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\196b2e65efcfb49f413e2ce928e04441\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f2aa629793416eae0495aafa80cdf3bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\d02d066e6a2b2bbc9712d39299a466dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\cb285124514b52e86a5c90abcb189b8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\becbb66c802bca495684cf5b0161aa90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\09d2c3836a4d6604daf3bde33e59907d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\23d738e834090762aa3451e05b1172e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\9371fb291ba15a58217bc7ab0f025dd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\d46586f81fd31ab67d2f80bf895d6750\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5594c0affeb8d024b42061918fa2ebb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\a6256ed0a0050be780b9abbfa45eb46e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5cff104a35dcc02880f6fd361ae49628\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\634326596d28883a1cb60a38b3ca80d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\0faaec45ae28d9ba028d47fd8e78258a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5d67e059c86c44d9e521666487cb15d1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\1a2ec7247f2c6b5113d14bf324d012cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\aa9b54cacd9b2a52569a2175c9e6106c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\aefaadb824cc6e229aaa44a169634b8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\53fb8bf0036fb424342b3ccb829206c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\30dea0b7a9cd0bc3824b234a57285a20\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\c4e8c0805da35ef376a2486d54ff1588\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\c2f685a8f96e1ae24a4fa35f8ede26bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\472024636eaa967d0f082fabf9bac152\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\1576d6a2a278ef78d73dc34f18a8ed0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\3e5e1bc6b34fb03fbf8e19f05c36cf0a\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f73e7839c7ac0ab37d2ee69c40a6b771\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f73e7839c7ac0ab37d2ee69c40a6b771\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\0faaec45ae28d9ba028d47fd8e78258a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\0faaec45ae28d9ba028d47fd8e78258a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5d67e059c86c44d9e521666487cb15d1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5d67e059c86c44d9e521666487cb15d1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\0faaec45ae28d9ba028d47fd8e78258a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.morarisoft.darkscreen.MainActivity
+ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f84af2bf2bd5a31041dc17f0a83d2a7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f84af2bf2bd5a31041dc17f0a83d2a7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f73e7839c7ac0ab37d2ee69c40a6b771\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f73e7839c7ac0ab37d2ee69c40a6b771\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\196b2e65efcfb49f413e2ce928e04441\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\196b2e65efcfb49f413e2ce928e04441\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f2aa629793416eae0495aafa80cdf3bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\f2aa629793416eae0495aafa80cdf3bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\d02d066e6a2b2bbc9712d39299a466dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\d02d066e6a2b2bbc9712d39299a466dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\cb285124514b52e86a5c90abcb189b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\cb285124514b52e86a5c90abcb189b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\becbb66c802bca495684cf5b0161aa90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\becbb66c802bca495684cf5b0161aa90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\09d2c3836a4d6604daf3bde33e59907d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\09d2c3836a4d6604daf3bde33e59907d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\23d738e834090762aa3451e05b1172e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\23d738e834090762aa3451e05b1172e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\9371fb291ba15a58217bc7ab0f025dd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\9371fb291ba15a58217bc7ab0f025dd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\d46586f81fd31ab67d2f80bf895d6750\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\d46586f81fd31ab67d2f80bf895d6750\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5594c0affeb8d024b42061918fa2ebb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5594c0affeb8d024b42061918fa2ebb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\a6256ed0a0050be780b9abbfa45eb46e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\a6256ed0a0050be780b9abbfa45eb46e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5cff104a35dcc02880f6fd361ae49628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5cff104a35dcc02880f6fd361ae49628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\634326596d28883a1cb60a38b3ca80d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\634326596d28883a1cb60a38b3ca80d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\0faaec45ae28d9ba028d47fd8e78258a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\0faaec45ae28d9ba028d47fd8e78258a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5d67e059c86c44d9e521666487cb15d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\5d67e059c86c44d9e521666487cb15d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\1a2ec7247f2c6b5113d14bf324d012cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\1a2ec7247f2c6b5113d14bf324d012cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\aa9b54cacd9b2a52569a2175c9e6106c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\aa9b54cacd9b2a52569a2175c9e6106c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\aefaadb824cc6e229aaa44a169634b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\aefaadb824cc6e229aaa44a169634b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\53fb8bf0036fb424342b3ccb829206c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\53fb8bf0036fb424342b3ccb829206c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\30dea0b7a9cd0bc3824b234a57285a20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\30dea0b7a9cd0bc3824b234a57285a20\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\c4e8c0805da35ef376a2486d54ff1588\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\c4e8c0805da35ef376a2486d54ff1588\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\c2f685a8f96e1ae24a4fa35f8ede26bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\c2f685a8f96e1ae24a4fa35f8ede26bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\472024636eaa967d0f082fabf9bac152\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\472024636eaa967d0f082fabf9bac152\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\1576d6a2a278ef78d73dc34f18a8ed0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\1576d6a2a278ef78d73dc34f18a8ed0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\3e5e1bc6b34fb03fbf8e19f05c36cf0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NiagaraSystem\.gradle\caches\transforms-2\files-2.1\3e5e1bc6b34fb03fbf8e19f05c36cf0a\AndroidManifest.xml:20:5-44
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+		ADDED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Workspace\lite_music_mainfile_4.2\DarkScreen\app\src\main\AndroidManifest.xml
